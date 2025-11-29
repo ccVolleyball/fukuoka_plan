@@ -75,7 +75,6 @@
 ## 熊本(12/17~12/21)
 * [Chuo Ward](https://www.airbnb.com.tw/rooms/1102407482061660882?source_impression_id=p3_1763776242_P3Xz0Q4f5kkyyN1i) [地點指引](https://www.google.com/maps/place/32%C2%B047'53.6%22N+130%C2%B042'25.4%22E/@32.7982185,130.7070481,17z/data=!3m1!4b1!4m4!3m3!8m2!3d32.7982185!4d130.7070481?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D)
   * 入住時間：下午4:00 後
-  * [google map](https://www.google.com/maps/place/32%C2%B047'53.6%22N+130%C2%B042'25.4%22E/@32.7985231,130.7073969,21z/data=!4m4!3m3!8m2!3d32.798222!4d130.707056?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
 * [Natural Hot Spring Higo no Yu Onyado Nono Kumamoto](https://www.booking.com/hotel/jp/tian-ran-wen-quan-fei-hou-notang-yu-su-ye-nai-xiong-ben.zh-tw.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaOcBiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKr4d_IBsACAdICJDc2ZjRjNjVlLWI4OTMtNDIyYS1hZWQ5LTM2YTgwZTJiNzFhNtgCAeACAQ&sid=373eb9d82eee21524f9af0e32bafaf3f&all_sr_blocks=1397099805_422473199_2_2_0%2C1397099805_422473199_2_2_0&checkin=2025-12-13&checkout=2025-12-17&dest_id=-234757&dest_type=city&dist=0&group_adults=4&group_children=0&hapos=2&highlighted_blocks=1397099805_422473199_2_2_0%2C1397099805_422473199_2_2_0&hpos=2&matching_block_id=1397099805_422473199_2_2_0&nad_cpc=0.5&nad_id=b751ccf3-fbf8-46a1-8710-f442610b167e_0&nad_placement=SR_MAIN&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxNzY2MjgwNTYsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiU2xvcklOZXlBUk45SjJEeFRTeU53NHU3MUJGQ0VRL3ZZYzY5K1NZeHJ3M0Z5Z1BXUTdDL2FZNGVoM1QvbXRtL2k5WVZxMFRzZ3c4UXRSV3BjUHZrYzhZM3BONHdPV3I2cHI5emFPSXlYYmZFMkNCMEMzTjhUalFZVnM5RXZjQ3FNR1daenhhWGZiL3BwSDJzeFcvRjFvMG1oMytGSW9JSnYrRWRDYko1Q2NLRVJOenVkMFhER1lVaGdQVFlGazVwTEVSQVlzSkpoQ2tpdkZBYjU3YWNIT2FTallKLytpZ2VCbHNxcVdld0ozODFJNmxteFk5bk4wSHJXaDJ3WjJDSHBmOE9nOWpsOUFtQzFiSzdjWUw2VW1NUnJJYjhQYWdlYnJMcFN4cTVCRWFQekZNZnc0QWlCZjZ3T0J4Z2pmTTlmQXQ0RWdxSTVUUVhtWTNWdWc4UUpwdzVxSmpMcWZXZndPUjhGV0RqUkZRYWh3RnpubkxOMjJPaTlWZXFTS1R3UzhUZjltemRSRWNyWnNpbG1QWUt0bkh6MElUdHBwc1pLS1hyWnNmN0pnakg5WHFkUEdJMnZ2YlluMVNRVFNwL213Z2xCZGp1MU50eHkvQWRNQ21DVW9tS2h6b0g1TnRNdVU3ek9EdlhvN0NLaC9oRTQwcU9pUU5oWUlCMUhHdmFBTWhzejNpNVAvOVdnSlBwejBHbVBqL1Vjc1BOc1pjdkpWTWxsem1IdVR2aWZuYU8wSWhCcy9tT2lmK3hTcjRnVFM2ekROL3kzNGRoT0ZyNmNLM2szMEtRSDlXWTQ0MlFuZXZsc2NndWV5TkVrRVNDM2xudXM3dDNlTDJLQ3NvVTBVMmtudlUyUk1xcEUvK0toUDFWY2tFTlZCZ0VWYzhKei9pNXMvcnRHSHVOYXdYYVBsbmo5ejZTSEdnYjF3S3ZMNU5jY05LVjJFL2J2TUNJdkNBV2J2aTB2OHZiSUsyS0pIVHFkRnNpQjdtVTJGcXFVa2xKM0hKaXVWOUxLZ2ZPdCtkQ2RidmFNZjNWR1UvNHpBcTEwMnZPWG5sNGNpRzFZZmRKaE93ajREUU9qa2N0d1FtcmsvZ3VuUmZpNmxqY2VSdTFpQ1JtRk5YSHZxcEdNYTRCQjFqMSszc25VcnQzN3Fyc25hVnZhRUNXVmp0a0FWT2JCanJVMnRjbzhwb0pDNWZNNUpQWklIWFNQNzZlbjA2Ti9NWnhMclNaMS84M2taM0hRMmxBWDN4SFBZNy81V3hnYkZ1cHZXeTV6b3RScTZRY0pEL2dxTGN5WDJpcXVybzZLeldoeVowNTc1aEFyNG5UcHhhTXJmaGhLdWZIZ2h3MDRNUmw3dnFPcmhkdVExWmdUdWgrbTRzaGc0OWkxNW0xUHJrdTZZaTg1QUxJY1NtU0F5aWV5RkhBamRJNWtYWC8reXp4MzIzdFRadi8xWjM0aG5nUDljSFNCMGJWeXRIcHNOVUNoTTRacStNRE9zcUc4SDY1djUrTzZaeEVBcXJIZ01oSzJ3Nkt6akJ2K2tKNHRlR28vZncvUHpWMzFqbGpRUng1cEtqT2lWNHdmdjhpbzhWdWVyeWcvcFpFWUtmdWhWeGM2MkVtbDc0R2syeG5wczdHRmhIT0JWc1Fsc1ZIb0hmUnIxcVhJM3NDTVpmRUQvN01UWm9kbEFNWERjaHhQQnN6MU9sZWJsZFEycm1oM1F1Y1NrdFFNN004LzRKdnZsWjJlZU04Z3YrVzVnclZGSkFqanljdmJzL0VPSjhVN3A1OFg2OXAxZUx2MU9mN2NXSkRmWjJKUmJKby83TDF3U2R0R2kzdlViY0krT2hCQ3hhRTlrTUd6V0FIZ0kvelpqWUFpNzMvYmhjKy9uZ1RVc25Sdlg1Z3FpWG9mRm04RXdLWEFzUEpleW1uZDRUYy9CdCtMWWYxWjhDL0VpcythWWs9In0%3D&no_rooms=2&req_adults=4&req_children=0&room1=A%2CA&room2=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1397099805_422473199_2_2_0__8132506%2C1397099805_422473199_2_2_0__8132506&srepoch=1763176633&srpvid=2b51171984df0290&type=total&ucfs=1&) [地點指引](https://www.google.com/maps/place/2-ch%C5%8Dme-2-20+Shimot%C5%8Dri,+Chuo+Ward,+Kumamoto,+860-0807%E6%97%A5%E6%9C%AC/@32.7990146,130.7078122,19z/data=!4m6!3m5!1s0x3540f4731f46c065:0xcd48f4ebed511d03!8m2!3d32.7988613!4d130.7085139!16s%2Fg%2F11hd58lpp3?entry=ttu&g_ep=EgoyMDI1MTEyMC4xIKXMDSoASAFQAw%3D%3D)
   * 入住時間：下午3:00 至 下午11:00
 ```
@@ -111,3 +110,44 @@ Natural Hot Spring Higo no Yu Onyado Nono Kumamoto 地址
 ```
 ## 熊本住宿到熊本機場 [google規劃](https://www.google.com/maps/dir/32.7982222,130.7070556/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E7%B8%A3%E7%9B%8A%E5%9F%8E%E7%94%BA+Oyatsu,+%E7%86%8A%E6%9C%AC%E6%A9%9F%E5%A0%B4/@32.811256,130.7402363,13z/data=!3m1!4b1!4m13!4m12!1m0!1m5!1m1!1s0x3540e58a7c299055:0xe94ffd5a8413eef5!2m2!1d130.8589779!2d32.8349978!2m3!6e0!7e2!8j1766304000!3e3?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
 ![google規劃](https://github.com/ccVolleyball/fukuoka_plan/blob/main/images/%E5%88%B0%E7%86%8A%E6%9C%AC%E8%BB%8A%E7%AB%99%E7%9A%84google%E8%A6%8F%E5%8A%83.jpg) 
+
+
+# 聖誕特輯 [網路介紹](https://kyushu.letsgojp.com/archives/27619/)
+* [福岡聖誕](https://christmas-advent.jp/cht/?lang=zh-TW)
+* [熊本聖誕](https://xmas-kumamoto.com/)
+* 福岡天神聖誕市集([點我](https://www.threads.com/@wangbainian/post/DREgsZzEu3i?xmt=AQF0QC1x_uKKPdM58t_bB2liIl7ay-N78Pvp1s5MAEtzYg))
+   * 博多聖誕市集-「CHRISTMAS MARKET in 光の街・博多」
+   * 天神聖誕市集-「TENJIN CHRISTMAS MARKET」 (天神市役所西側廣場)
+   * 天神中央公園聖誕市集
+   * 中洲聖誕燈飾(夜遊博多、河畔散步)
+   * 中洲聖誕市集(中洲貴賓館前廣場，世界各地、造型各異的聖誕老人像約130位)
+   * 博多運河城點燈(地下1樓的舞台區域、招牌噴泉秀)
+   * 福岡塔點燈(每30分鐘交替展出兩種燈光主題)
+   * 門司港點燈
+   * 熊本車站聖誕市集
+   * 小倉燈光秀
+   * 小倉聖誕市集
+```
+CHRISTMAS MARKET KUMAMOTO
+・日期：2025年11月21日（五）～12月25日（四）
+※ 熊本車站會場12月9日、12月10日暫停
+※ 花畑廣場會場僅於12月2日～12月25日期間舉行
+※ 光之森會場僅於12月12日～12月21日期間舉行
+・時間：【平日】16:00〜22:00【週末】11:00〜22:00（※ 花畑廣場延長至22:00結束）
+・地點：熊本車站前、花畑廣場、菊陽町光之森公園
+・交通方式：JR「熊本」站、西鐵天神大牟田線「花畑」站、JR「光之森」站出站即達
+```
+```
+CHRISTMAS MARKET in 光の街・博多
+・點燈日期：2025年11月1日（六）～12月25日（四）
+・點燈時間：【11/1】19:00～23:00【平日】16:45～23:00【12/1開始】12:00～23:00
+・點燈地點：博多站前
+・交通方式：JR「博多」站出站即達
+```
+```
+TENJIN CHRISTMAS MARKET
+・點燈日期：2025年11月15日（六）〜12月25日（四）
+・點燈時間：【平日】17:00～23:00【假日】12:00～23:00
+・點燈地點：福岡市役所西側ふれあい広場（福岡市中央区天神1-8-1）
+・交通方式：地下鐵空港線「天神」站徒步約3分鐘、七隈線「天神南」站徒步約2分鐘
+```
