@@ -33,6 +33,9 @@
 這是第二行，後面沒有空格，
 沒有空格就會跟前一行連在一起
 
+(七)刪除線，在要加刪除線的文字的兩端加上蚯蚓符合(~)，以下舉例
+~這些文字被加刪除線了~
+
 -->
 
 <!-- 這是註解---------------------------------------------
@@ -259,7 +262,7 @@ TENJIN CHRISTMAS MARKET
 
 # 熊本 
 ## 阿蘇火山
-* 開放時間：12月1日~3月19日 AM9:00~PM4:30 ※PM5:00關門
+* 開放時間：12/1-3/19 9:00-16:30 ※17:00關門
 * [阿蘇火山天氣與噴火警戒](https://emergency-weather.yahoo.co.jp/weather/zh-TW/volcano/503/)
 * [阿蘇火山火口規制情報](https://www.aso-volcano.jp/)
 * [阿蘇火山火口之限制遊覽情報](https://www.aso-volcano.jp/chinese/index.html)
@@ -280,3 +283,5 @@ TENJIN CHRISTMAS MARKET
 # 網友推薦
 
 # 其他
+
+
