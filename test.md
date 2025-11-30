@@ -265,10 +265,13 @@ TENJIN CHRISTMAS MARKET
 # [太宰府](https://github.com/ccVolleyball/fukuoka_plan/blob/main/2025_%E5%A4%AA%E5%AE%B0%E5%BA%9C.md)
 
 # 小倉
+請編輯我  
 
 # 由布院
+請編輯我  
 
 # 移動日
+請編輯我  
 
 # 熊本 
 ## 阿蘇火山
@@ -294,21 +297,40 @@ TENJIN CHRISTMAS MARKET
 
 
 # 熊本郊區
+請編輯我  
 
 # 願望清單(想買的東西)
+請編輯我  
 
 # 相關網站
 ## 天氣
 * 參考IG fukuoka_insider 的週報 []()
 * [30天福岡天氣預報](https://www.accuweather.com/zh/jp/fukuoka-shi/223544/december-weather/223544)
 * [30天熊本天氣預報](https://www.accuweather.com/zh/jp/shimasaki/2338216/december-weather/2338216)
+
 ## 餐廳
 * 日本餐廳預約網站([Tabelog](https://tabelog.com/tw/?cid=inb_meta_rt_top_taiwan_tw_01))
+
 ## 熊本
 * [阿蘇火山](https://www.aso-volcano.jp/chinese/index.html)
+
+
 # 網友推薦
 
+## APP
+* [LocaSma, Apple](https://apps.apple.com/us/app/locasma/id498923187)
+* [ROKESUMA, Android](https://play.google.com/store/apps/details?id=jp.d_advantage.locasma&hl=zh_TW)
+* [食べログ](https://apps.apple.com/jp/app/%E9%A3%9F%E3%81%B9%E3%83%AD%E3%82%B0-%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%81%8A%E5%BA%97-%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8B%E3%82%B0%E3%83%AB%E3%83%A1%E3%82%A2%E3%83%97%E3%83%AA/id763377066)
+```
+以食べログ上面的生態
+3.1差不多是平均分
+3.3通常就不差了
+3.5算是高分店
+官方說只有3%的店家達到這個分數
+```
+
 # 偷窺網站
+
 ## Youtube Live
 * [福岡・博多駅前](https://www.youtube.com/watch?v=E5R5PPezu7k)
 * [ＪＲ博多駅前](https://www.youtube.com/watch?v=8RyR0J8zbbU)
