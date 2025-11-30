@@ -197,3 +197,53 @@ TENJIN CHRISTMAS MARKET
 ・點燈地點：福岡市役所西側ふれあい広場（福岡市中央区天神1-8-1）
 ・交通方式：地下鐵空港線「天神」站徒步約3分鐘、七隈線「天神南」站徒步約2分鐘
 ```
+
+
+# 福岡市區
+## 逛街
+
+### 大型百貨
+* [博多運河城](https://canalcity.co.jp/zh-tw)
+   * 營業時間：商店為 10:00～21:00、餐廳為 11:00～23:00
+   * [樓層介紹](https://github.com/ccVolleyball/fukuoka_plan/blob/main/files/%E5%8D%9A%E5%A4%9A%E9%81%8B%E6%B2%B3%E5%9F%8E_floormap_zh-tw.pdf)
+* [AMU PLAZA](https://www.google.com/maps/place/AMU+PLAZA%E5%8D%9A%E5%A4%9A/@33.5898144,130.4178566,17z/data=!3m2!4b1!5s0x354191b808122eff:0xdb78b1ed04a82d0!4m6!3m5!1s0x354191c7ea885905:0x56198a5b265cebf4!8m2!3d33.58981!4d130.4204315!16s%2Fg%2F12365742?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+   * 8F UNIQLO、B1 超市
+* [博多丸井OIOI百貨](https://www.google.com/maps/place/%E5%8D%9A%E5%A4%9A%E4%B8%B8%E4%BA%95OIOI%E7%99%BE%E8%B2%A8/@33.5888895,130.4168773,17z/data=!3m2!4b1!5s0x354191b86e62e40b:0xe058cca02815d770!4m6!3m5!1s0x354191b86f494bbd:0x337c2d29b0bd8c04!8m2!3d33.5888851!4d130.4194522!16s%2Fg%2F11cn8xg9c6?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+   * 
+* [Parco](https://www.google.com/maps/search/Parco/@33.5907281,130.3958378,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+* [大丸福岡天神](https://www.google.com/maps/place/%E5%A4%A7%E4%B8%B8+%E7%A6%8F%E5%B2%A1%E5%A4%A9%E7%A5%9E%E5%BA%97/@33.5886505,130.3986068,17z/data=!3m1!4b1!4m6!3m5!1s0x35419190236c8f81:0xcd12b689c238ad38!8m2!3d33.5886461!4d130.4011817!16s%2Fg%2F1hc1jr0pw?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+* 天神地下街
+* [mina 天神](https://www.google.com/maps/place/Mina+%E5%A4%A9%E7%A5%9E/@33.5927643,130.395938,17z/data=!3m2!4b1!5s0x3541918e7b649f07:0x3316f504ccb6ecd0!4m6!3m5!1s0x3541918e7beb23b5:0xfa501c2d5ea93026!8m2!3d33.5927599!4d130.3985129!16s%2Fg%2F1tjf80z5?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+   * Loft
+   * 3 coins 
+
+### 運動用品
+* [HOKA Fukuoka Tenjin](https://www.google.com/maps/place/HOKA+Fukuoka+Tenjin/@33.5930335,130.3947067,16.4z/data=!3m1!5s0x354191940d1b218f:0x8a830600f3315bef!4m10!1m2!2m1!1sHOKA!3m6!1s0x354191007fdb2b83:0xb592046a1909e3f1!8m2!3d33.5907973!4d130.3975771!15sCgRIT0tBWgYiBGhva2GSAQVzdG9yZZoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyeEtOR1JJWkVWYWJtUnNWakJTVFV4VldsWlZiRUpPVWpKMGQxUnVZeEFC4AEA-gEECAAQFg!16s%2Fg%2F11x8hs2zhh?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+* [ASICS CANALCITY HAKATA](https://www.google.com/maps/place/ASICS+CANALCITY+HAKATA/@33.5889703,130.4064118,16.46z/data=!4m6!3m5!1s0x354191005f209dc7:0x43b213e6abfd87c0!8m2!3d33.5891013!4d130.4108321!16s%2Fg%2F11ypnhlpr2?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+* [Onitsuka Tiger福岡](https://www.google.com/maps/place/Onitsuka+Tiger+PARCO%E7%A6%8F%E5%B2%A1%E5%BA%97/@33.5909096,130.3925691,16z/data=!3m1!5s0x3541918fefb4e511:0x1308381a91e656e4!4m10!1m2!2m1!1sOnitsuka+Tiger!3m6!1s0x3541918e531d0a9d:0x9d4f6d49e8fed25e!8m2!3d33.5909096!4d130.3984851!15sCg5Pbml0c3VrYSBUaWdlciIDiAEBkgEKc2hvZV9zdG9yZeABAA!16s%2Fg%2F11bx1s44b4?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+* [ABC-MART GRANDSTAGE Fukuoka Nishi-dori Store](https://www.google.com/maps/place/ABC-MART+GRANDSTAGE+Fukuoka+Nishi-dori+Store/@33.588328,130.3932387,17z/data=!3m1!4b1!4m6!3m5!1s0x35419185e3fb23dd:0xc1ad8979f28c02fb!8m2!3d33.588328!4d130.395819!16s%2Fg%2F1wg5vsb3?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+* [Alpen FUKUOKA shop-in-shop 博多運河城1F-3F Asics、HOKA、On](https://www.google.com/maps/place/Alpen+%E7%A6%8F%E5%B2%A1/@33.5886365,130.4083131,17z/data=!3m2!4b1!5s0x354191be3b55fdc9:0x60c9ffa0ba03290!4m6!3m5!1s0x354191167d099bc3:0x70e6c4073277333!8m2!3d33.5886365!4d130.4108934!16s%2Fg%2F11vdb6fndf?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+* []()
+
+### 超市
+*  博多超市 [LOPIA yodobashi](https://www.google.com/maps/place/LOPIA+%E5%8D%9A%E5%A4%9A%E5%8F%8B%E9%83%BD%E5%85%AB%E5%96%9C%E5%BA%97/@33.5879076,130.3453686,13z/data=!3m1!5s0x354191b7e5592f09:0x94c2a00b21e16da9!4m10!1m2!2m1!1sLOPIA+yodobashi!3m6!1s0x35419114f91c1021:0x3049270a63370d73!8m2!3d33.5879076!4d130.4215863!15sCg9MT1BJQSB5b2RvYmFzaGkiA4gBAVoRIg9sb3BpYSB5b2RvYmFzaGmSAQ1ncm9jZXJ5X3N0b3JlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5UVU5STmt4WVdVdG5FQUXgAQD6AQQIBxAU!16s%2Fg%2F11sv53_27x?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+     
+## 吃吃
+### 拉麵 沾麵
+* Shin Shin
+* 博多一双
+* 博多一幸社
+* 一蘭總店
+* 麵屋兼虎 天神本店
+* 麵屋兼虎 福岡PARCO店
+### .燒肉 ..串燒
+* .藥院燒肉
+* .[烤肉 石原牛](https://www.google.com/maps/place/%E7%83%A4%E8%82%89+%E7%9F%B3%E5%8E%9F%E7%89%9B/@33.5947575,130.4008038,17z/data=!3m2!4b1!5s0x354191eb555954b3:0xc62ba71d7363f2b4!4m6!3m5!1s0x354191b33bcecd67:0xe246ffc9f925c63f!8m2!3d33.5947576!4d130.4056693!16s%2Fg%2F11pfq5db99?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+* ..[Kawa Ya Gion Ten](https://tabelog.com/tw/fukuoka/A4001/A400101/40059272/) 
+### 甜點 咖啡 麵包
+* fuk coffee(昭和布丁+冰淇淋必點)
+* Pain Stock 天神店(明太子法國麵包)
+### 烏龍麵
+* Sanuki Udon Shinari
+### 牛雜鍋
+* 博多牛雜鍋 Yamanaka 赤坂店
