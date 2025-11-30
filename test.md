@@ -250,3 +250,33 @@ TENJIN CHRISTMAS MARKET
 
 
 # [太宰府](https://github.com/ccVolleyball/fukuoka_plan/blob/main/2025_%E5%A4%AA%E5%AE%B0%E5%BA%9C.md)
+
+# 小倉
+
+# 由布院
+
+# 移動日
+
+# 熊本 
+## 阿蘇火山
+* 開放時間：12月1日~3月19日 AM9:00~PM4:30 ※PM5:00關門
+* [阿蘇火山天氣與噴火警戒](https://emergency-weather.yahoo.co.jp/weather/zh-TW/volcano/503/)
+* [阿蘇火山火口規制情報](https://www.aso-volcano.jp/)
+* [阿蘇火山火口之限制遊覽情報](https://www.aso-volcano.jp/chinese/index.html)
+* [白蛇神社](https://l.threads.com/?u=https%3A%2F%2Fmaps.app.goo.gl%2F3yVsxBP74RsB4Jgc8&e=AT0pQCBWYnhn3fOXs7aBtwr26kSqdzZcCzVReyU7gQiFwbaHK_aeF2sG7uhmgLEzdOJRC-q0ausQ3Qrv-KktDAWoPul-YFW_l0t7jGD7JIl_dywqcktY6Bkiv1-hR1VJUySD7xw)
+```
+脆友心得
+遇到天氣不佳，建議在便利商店購買輕便雨衣，火山口風大撐不了傘
+```
+
+# 熊本市區
+
+# 熊本郊區
+
+# 願望清單(想買的東西)
+
+# 相關網站
+
+# 網友推薦
+
+# 其他
