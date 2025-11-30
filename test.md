@@ -305,6 +305,8 @@ Q: 是否有投幣式寄物櫃？
 
 臨時抱佛腳，[鳥栖PREMIUM OUTLETS](https://www.bigfang.tw/blog/post/tosu-premiumoutlets-kyushu)
 臨時抱佛腳，[完美行旅遊情報 鳥栖Premium Outlets](https://tw.wamazing.com/media/article/a-705/)
+[電子地圖](https://platinumaps.jp/d/premiumoutlets-tosu?culture=en)
+
 
 # 熊本 
 ## 阿蘇火山
