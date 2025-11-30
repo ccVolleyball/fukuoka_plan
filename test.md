@@ -273,13 +273,29 @@ TENJIN CHRISTMAS MARKET
 ```
 
 # 熊本市區
+## 逛街
+* AMU PLAZA
+   * [HalloDay超市](https://gogojp.tw/halloday-kumamoto/)
+   * GU
+* Big Camera [Coupon](https://github.com/ccVolleyball/fukuoka_plan/blob/main/Coupon/bigCamera_%E5%84%AA%E6%83%A0%E5%88%B8.JPG)
+
+ ## 推薦名產
+ * [阿蘇小國貓舌餅](https://www.threads.com/@candyfay621/post/DRg0Stsk7iV)
+
 
 # 熊本郊區
 
 # 願望清單(想買的東西)
 
 # 相關網站
-
+## 天氣
+* 參考IG fukuoka_insider 的週報 []()
+* [30天福岡天氣預報](https://www.accuweather.com/zh/jp/fukuoka-shi/223544/december-weather/223544)
+* [30天熊本天氣預報](https://www.accuweather.com/zh/jp/shimasaki/2338216/december-weather/2338216)
+## 餐廳
+* 日本餐廳預約網站([Tabelog](https://tabelog.com/tw/?cid=inb_meta_rt_top_taiwan_tw_01))
+## 熊本
+* [阿蘇火山](https://www.aso-volcano.jp/chinese/index.html)
 # 網友推薦
 
 # 其他
