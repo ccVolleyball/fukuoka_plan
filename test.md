@@ -117,6 +117,10 @@
    * 抵達時間：13:25
    * 班機號碼：JX847(星宇航空)
 
+<!-- -------------------------------------------------
+這裡是住宿
+-----------------------------------------------------
+-->
 # 住宿(完成)
 ## 福岡(12/13~12/17)
 * [春吉中洲](https://www.booking.com/hotel/jp/star-residence2.zh-tw.html?aid=356980&label=gog235jc-10CAsodUIPc3Rhci1yZXNpZGVuY2UySDBYA2jnAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCnLvfyAbAAgHSAiRlNWM4YjIwNC0yM2IxLTQxMjYtYTUxYS0zNDkzNWI1YmFiODHYAgHgAgE&sid=373eb9d82eee21524f9af0e32bafaf3f&checkin=2025-12-13&checkout=2025-12-17&dest_id=900047908&dest_type=city&dist=0&group_adults=4&group_children=0&hapos=1&hpos=1&no_rooms=2&req_adults=4&req_children=0&room1=A%2CA&room2=A%2CA&sb_price_type=total&soh=1&sr_order=popularity&srepoch=1763171750&srpvid=3a590d8fec950973&type=total&ucfs=1&chal_t=1763774184912&force_referer=https%3A%2F%2Freurl.cc%2F#no_availability_msg)
@@ -144,7 +148,12 @@ Natural Hot Spring Higo no Yu Onyado Nono Kumamoto 地址
 熊本, Chuo Shimotori 2-2-20
 ```
 
+<!-- --------------------------------------------------------
+這裡是交通
+-------------------------------------------------------------
+-->
 # 交通(完成規劃，票尚未付款)
+
 ## 機場到福岡住宿[google規劃](https://www.google.com/maps/dir/%E7%A6%8F%E5%B2%A1%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4+%E6%97%A5%E6%9C%AC%E3%80%92812-0003+Fukuoka,+Hakata+Ward,+Shimousui,+778-1/1-ch%C5%8Dme-5-1+Haruyoshi,+Chuo+Ward,+Fukuoka,+810-0003%E6%97%A5%E6%9C%AC/@33.590602,130.403466,14z/data=!4m18!4m17!1m5!1m1!1s0x35419016426901ad:0x16e67f46584e1fb7!2m2!1d130.4490906!2d33.5849988!1m5!1m1!1s0x354191984c415b67:0x4cd1016ceb2cf278!2m2!1d130.4086073!2d33.5829931!2m3!6e0!7e2!8j1765652400!3e3?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D)
 ```
 福岡機場線 > 福岡 > 轉七隈線 > 搭到渡邊通 > 步行
@@ -154,6 +163,7 @@ Natural Hot Spring Higo no Yu Onyado Nono Kumamoto 地址
 * 車票已訂，尚未付款(2025/11/22)
 ## 鳥栖PREMIUM OUTLETS到熊本 [google規劃地圖](https://www.google.com/maps/dir/%E9%B3%A5%E6%A0%96PREMIUM+OUTLETS+8+Chome-1+Yayoigaoka,+Tosu,+Saga+841-0005%E6%97%A5%E6%9C%AC/Karashimacho,+7+Shinshigai,+%E4%B8%AD%E5%A4%AE%E5%8D%80%E7%86%8A%E6%9C%AC%E5%B8%82%E7%86%8A%E6%9C%AC%E7%B8%A3%E6%97%A5%E6%9C%AC/@33.4060922,130.5107531,18z/am=t/data=!4m19!4m18!1m5!1m1!1s0x3541a28a68e8abcb:0xc7984996cc7a7adf!2m2!1d130.5116369!2d33.4064854!1m5!1m1!1s0x3540f46d9d17d42d:0xabc998a3e74c2c88!2m2!1d130.7050255!2d32.7988821!2m3!6e0!7e2!8j1765994400!3e3!5i2?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D)
 ![outlet到熊本](https://github.com/ccVolleyball/fukuoka_plan/blob/main/images/outlet%E5%88%B0%E7%86%8A%E6%9C%AC%E6%90%AD%E8%BB%8A%E8%B7%AF%E7%B7%9A.jpg)
+* 臨時抱佛腳，[到outlet交通攻略](https://gototravel.tw/tosu-premium-outlets-transport/)
 ```
 鳥栖PREMIUM OUTLETS > Tosu Premium Outlets(bus) > Tosu Sta.(bus) > 鳥栖車站 > 新鳥栖 > Kumamoto Station > Karashimacho > 
 ```
@@ -298,6 +308,10 @@ TENJIN CHRISTMAS MARKET
 * [阿蘇火山](https://www.aso-volcano.jp/chinese/index.html)
 # 網友推薦
 
-# 其他
+# 偷窺網站
+## Youtube Live
+* [福岡・博多駅前](https://www.youtube.com/watch?v=E5R5PPezu7k)
+* [ＪＲ博多駅前](https://www.youtube.com/watch?v=8RyR0J8zbbU)
+* [博多・中洲ライブカメラ](https://www.youtube.com/watch?v=iy8A4LMT_TU)
 
 
