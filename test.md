@@ -274,12 +274,18 @@ TENJIN CHRISTMAS MARKET
 * ..[Kawa Ya Gion Ten](https://tabelog.com/tw/fukuoka/A4001/A400101/40059272/) 
 ### 甜點 咖啡 麵包
 * fuk coffee(昭和布丁+冰淇淋必點)
-* Pain Stock 天神店(明太子法國麵包)
+* Pain Stock 天神店(明太子法國麵包)，要排隊(可內用、外帶，明太子在櫃檯點)
+* full full
+* Filter supply
 ### 烏龍麵
 * Sanuki Udon Shinari
 ### 牛雜鍋
 * 博多牛雜鍋 Yamanaka 赤坂店
-
+* 博多牛雜鍋前田屋
+### 水炊鍋
+* [博多水炊鍋専門 橙](https://www.google.com/maps/place/%E5%8D%9A%E5%A4%9A%E6%B0%B4%E7%82%8A%E9%8D%8B%E5%B0%82%E9%96%80+%E6%A9%99/@33.5896279,130.3624291,15z/data=!3m1!5s0x3541922de9c25ffb:0xa5fe40e25e01e596!4m10!1m2!2m1!1z5qmZ!3m6!1s0x3541922de9fb3c6f:0xd6b65ac17fda1202!8m2!3d33.5896279!4d130.3814835!15sCgPmqZlaBSID5qmZkgESY2hpY2tlbl9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJFZEU5bWIyVjNFQUXgAQD6AQUIjwIQHg!16s%2Fg%2F11cmnl6yyp?authuser=0&entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
+   * 價格：4150日圓/人(偏貴)
+* 華味鳥
 
 # [太宰府](https://github.com/ccVolleyball/fukuoka_plan/blob/main/2025_%E5%A4%AA%E5%AE%B0%E5%BA%9C.md)
 
