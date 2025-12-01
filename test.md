@@ -73,28 +73,26 @@
 可以考慮禮拜天去太宰府，去太宰府不需要搭JR，這樣JR PASS 可以只需要買三日即可(12/15,16,17)
 太宰府day可以考慮：（早）福岡天神吃早餐（明太子麵包之類），(中)前往太宰府，(黃昏)返回福岡市區吃晚餐逛街，博多車站聖誕
 ```
-* 1️⃣ Day 1
+* 1️⃣🟥(12/13)：✈️18:00在福岡囉
+* 2️⃣🟥(12/14)
+* 3️⃣🟦(12/15)
+* 4️⃣🟦(12/16)
+* 5️⃣🟦(12/17)：福岡掰掰，去找🐻
+* 6️⃣🟦(12/18)
+* 7️⃣🟦(12/19)
+* 8️⃣🟥(12/20)
+* 9️⃣🟥(12/21)：✈️11:45告別熊本
 
-* D1(12/13-六) 18:00到福岡機場
-* D2(12/14-日)
-* D3(12/15-一)
-* D4(12/16-二)
-* D5(12/17-三) 福岡轉熊本，去 outlet
-* D6(12/18-四)
-* D7(12/19-五)
-* D8(12/20-六)
-* D9(12/21-日) 早上11:45班機回台灣
 
 # 票
-* [福岡] to [鳥栖PREMIUM OUTLETS] [線上購票](https://www.highwaybus.com/gp/index)
+* 🚌 **福岡** to **鳥栖PREMIUM OUTLETS** [線上購票](https://www.highwaybus.com/gp/index)
    * 帳號:t9....、密碼:@......
    * 已預訂，尚未付款 [文件](https://github.com/ccVolleyball/fukuoka_plan/blob/main/tickets/%E7%A6%8F%E5%B2%A1%E5%88%B0outlet%E5%B7%B4%E5%A3%AB%E9%A0%90%E5%AE%9A.pdf)
 
 ![訂票資訊](https://github.com/ccVolleyball/fukuoka_plan/blob/main/tickets/%E7%A6%8F%E5%B2%A1%E5%88%B0outlet%E5%B7%B4%E5%A3%AB%E9%A0%90%E5%AE%9A%E7%B4%80%E9%8C%84.JPG)
-* [北九州 JR PASS](https://www.jrkyushu.co.jp/chinese/railpass/railpass.html)
-   * 價格：15000¥/3日、17000¥/5日
-
-  * [訂票網站](https://kyushurailpass.jrkyushu.co.jp/reserve/RailPassPurchaseInputPage?7)
+* 🚄[**北九州 JR PASS**](https://www.jrkyushu.co.jp/chinese/railpass/railpass.html)
+   * 💰：15000円/3️⃣、17000円/5️⃣
+   * [訂票網站](https://kyushurailpass.jrkyushu.co.jp/reserve/RailPassPurchaseInputPage?7)
 ```
 乘坐範圍
     普通列車
@@ -106,31 +104,31 @@
 
 # 行前準備
 1. 網路(esim)
-2. 保險
+2. 保險：各取所需
 3. [入境卡填寫VJW](https://services.digital.go.jp/zh-cmn-hant/visit-japan-web/)
 4. 換日幣
 
 # 需要的物品
-* 個人護理與衛生
+* 🪥 個人護理與衛生
    * 護唇膏、牙線棒、衛生紙、口罩、洗面乳、洗髮精、洗衣球、洗衣袋
-* 藥品與緊急用品
-   * 普拿疼、剪刀
-* 保暖與衣物配件
+* 💊 藥品與緊急用品
+   * 普拿疼
+* 🧥 保暖與衣物配件
    * 圍巾、暖暖包
-* 電器與工具
-   * 吹風機、真空袋
+* 🔌 電器與工具
+   * 吹風機、真空袋、剪刀、充電器、延長線
 * 日用雜貨
-   * 保溫瓶、拖鞋(室內拖鞋)
+   * 保溫瓶、拖鞋(室內拖鞋)、雨傘
 
 # 機票資訊(完成)
-* 出發 12/13(六) TPE > FUK
-   * 出發時間：14:45 T1
-   * 抵達時間：18:00 國際航廈
-   * 班機號碼：JX840(星宇航空)
-* 回程 12/21(日) KMJ > TPE
-   * 出發時間：11:45
-   * 抵達時間：13:25
-   * 班機號碼：JX847(星宇航空)
+* 出發 12/13(六)
+   * ⏰時間：14:45 (TPE) ➔ 18:00 (FUK)
+   * 🏢航廈：桃園第一航廈 ➔ 福岡國際航廈
+   * 🎫班機：`星宇航空 JX840`
+* 回程 12/21(日) KMJ ✈️ TPE
+   * ⏰時間：11:45 (KMJ) ➔ 13:25 (TPE)
+   * 🏢航廈：熊本機場 ➔ 桃園第一航廈
+   * 🎫班機：`星宇航空 JX847`
 
 <!-- -------------------------------------------------
 這裡是住宿
