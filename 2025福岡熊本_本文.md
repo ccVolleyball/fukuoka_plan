@@ -88,7 +88,7 @@
 * 🚌 **福岡** to **鳥栖PREMIUM OUTLETS** [線上購票](https://www.highwaybus.com/gp/index)
    * 帳號:t9....、密碼:@......
    * 已預訂，尚未付款 [文件](https://github.com/ccVolleyball/fukuoka_plan/blob/main/tickets/%E7%A6%8F%E5%B2%A1%E5%88%B0outlet%E5%B7%B4%E5%A3%AB%E9%A0%90%E5%AE%9A.pdf)
-
+   * 12/4 已付款，掃描QRcode坐車
 ![訂票資訊](https://github.com/ccVolleyball/fukuoka_plan/blob/main/tickets/%E7%A6%8F%E5%B2%A1%E5%88%B0outlet%E5%B7%B4%E5%A3%AB%E9%A0%90%E5%AE%9A%E7%B4%80%E9%8C%84.JPG)
 * 🚄[**北九州 JR PASS**](https://www.jrkyushu.co.jp/chinese/railpass/railpass.html)
    * 💰：15000円/3️⃣、17000円/5️⃣
@@ -175,7 +175,8 @@ Natural Hot Spring Higo no Yu Onyado Nono Kumamoto 地址
 ```
 ![福岡機場2永吉中洲](https://github.com/ccVolleyball/fukuoka_plan/blob/main/images/%E7%A6%8F%E5%B2%A1%E6%A9%9F%E5%A0%B42%E6%98%A5%E5%90%89%E4%B8%AD%E6%B4%B2google%E8%B7%AF%E7%B7%9A.JPG)
 ## 福岡到鳥栖PREMIUM OUTLETS
-* 車票已訂，尚未付款(2025/11/22)
+* 車票已訂，~尚未付款(2025/11/22)~
+* 12/4 已付款完成
 ## 鳥栖PREMIUM OUTLETS到熊本 [google規劃地圖](https://www.google.com/maps/dir/%E9%B3%A5%E6%A0%96PREMIUM+OUTLETS+8+Chome-1+Yayoigaoka,+Tosu,+Saga+841-0005%E6%97%A5%E6%9C%AC/Karashimacho,+7+Shinshigai,+%E4%B8%AD%E5%A4%AE%E5%8D%80%E7%86%8A%E6%9C%AC%E5%B8%82%E7%86%8A%E6%9C%AC%E7%B8%A3%E6%97%A5%E6%9C%AC/@33.4060922,130.5107531,18z/am=t/data=!4m19!4m18!1m5!1m1!1s0x3541a28a68e8abcb:0xc7984996cc7a7adf!2m2!1d130.5116369!2d33.4064854!1m5!1m1!1s0x3540f46d9d17d42d:0xabc998a3e74c2c88!2m2!1d130.7050255!2d32.7988821!2m3!6e0!7e2!8j1765994400!3e3!5i2?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D)
 ![outlet到熊本](https://github.com/ccVolleyball/fukuoka_plan/blob/main/images/outlet%E5%88%B0%E7%86%8A%E6%9C%AC%E6%90%AD%E8%BB%8A%E8%B7%AF%E7%B7%9A.jpg)
 * 臨時抱佛腳，[到outlet交通攻略](https://gototravel.tw/tosu-premium-outlets-transport/)
